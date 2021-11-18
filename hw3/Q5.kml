@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+</Style>
+
+<Placemark> 
+ <Polygon> <outerBoundaryIs>  <LinearRing>  
+  <coordinates>
+   -118.28334379514135,34.01965343013877
+   -118.28808400513849,34.020109100881186
+   -118.2888238538757,34.02052253481885
+   -118.2896017683648,34.02120751565373
+   -118.3127336,34.0777647
+   -118.28209926814638,34.02189088473918 
+   -118.28334379514135,34.01965343013877
+  </coordinates>
+ </LinearRing> </outerBoundaryIs> </Polygon>
+ 
+ <Style> 
+  <PolyStyle>  
+   <color>#a00000ff</color>
+  <outline>0</outline>
+  </PolyStyle> 
+ </Style>
+</Placemark>
+
+<Placemark> 
+ <LineString>
+  <coordinates>
+   -118.3127336,34.0777647
+   -118.28762925137238,34.023224232286715
+  </coordinates>
+ </LineString>
+</Placemark>
+
+<Placemark> 
+ <LineString>
+  <coordinates>
+   -118.3127336,34.0777647
+   -118.28576307240098,34.02356923598205
+  </coordinates>
+ </LineString>
+</Placemark>
+
+<Placemark> 
+ <LineString>
+  <coordinates>
+   -118.3127336,34.0777647
+   -118.28729977210527,34.02131312226778
+  </coordinates>
+ </LineString>
+</Placemark>
+
+<Placemark> 
+ <LineString>
+  <coordinates>
+   -118.3127336,34.0777647
+   -118.2896017683648,34.02120751565373
+  </coordinates>
+ </LineString>
+</Placemark>
+
+
+<Placemark><name>Lido</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.3127336,34.0777647</coordinates></Point>
+</Placemark>
+<Placemark><name>Epstein Plaza</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2888238538757,34.02052253481885</coordinates></Point>
+</Placemark>
+<Placemark><name>Vivian Hall</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28808400513849,34.020109100881186</coordinates></Point>
+</Placemark>
+<Placemark><name>Cromwell Field</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28729977210527,34.02131312226778</coordinates></Point>
+</Placemark>
+<Placemark><name>Book Store</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28634326606596,34.02083876545548</coordinates></Point>
+</Placemark>
+<Placemark><name>Fountain</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2851033469909,34.020311272922804</coordinates></Point>
+</Placemark>
+<Placemark><name>Argue Plaza</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28334379514135,34.01965343013877</coordinates></Point>
+</Placemark>
+<Placemark><name>Starbucks</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2825502696874,34.02132984693899</coordinates></Point>
+</Placemark>
+<Placemark><name>Royal St Stru</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28209926814638,34.02189088473918</coordinates></Point>
+</Placemark>
+<Placemark><name>University Club</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28340166944642,34.02248067186067</coordinates></Point>
+</Placemark>
+<Placemark><name>Dentistry</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28576307240098,34.02356923598205</coordinates></Point>
+</Placemark>
+<Placemark><name>John McKay</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28762925137238,34.023224232286715</coordinates></Point>
+</Placemark>
+<Placemark><name>Downey Stru</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2896017683648,34.02120751565373</coordinates></Point>
+</Placemark>
+</Document></kml>
